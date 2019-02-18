@@ -1,0 +1,7 @@
+C:\Users\jya1104\OneDrive\GitHub\Ping_Class\PingApp1\PingApp1\obj\Debug\PingApp1.csprojAssemblyReference.cache
+C:\Users\jya1104\OneDrive\GitHub\Ping_Class\PingApp1\PingApp1\obj\Debug\PingApp1.csproj.CoreCompileInputs.cache
+C:\Users\jya1104\OneDrive\GitHub\Ping_Class\PingApp1\PingApp1\bin\Debug\PingApp1.exe.config
+C:\Users\jya1104\OneDrive\GitHub\Ping_Class\PingApp1\PingApp1\bin\Debug\PingApp1.exe
+C:\Users\jya1104\OneDrive\GitHub\Ping_Class\PingApp1\PingApp1\bin\Debug\PingApp1.pdb
+C:\Users\jya1104\OneDrive\GitHub\Ping_Class\PingApp1\PingApp1\obj\Debug\PingApp1.exe
+C:\Users\jya1104\OneDrive\GitHub\Ping_Class\PingApp1\PingApp1\obj\Debug\PingApp1.pdb
